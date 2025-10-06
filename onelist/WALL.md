@@ -4,14 +4,21 @@ Welcome to the OneList CTF Wall of Fame! This page recognizes the skilled revers
 
 ## 📊 Statistics
 
-- **Total Submissions**: 0
-- **Full Completions (10/10 flags)**: 0
+- **Total Submissions**: 1
+- **Full Completions (10/10 flags)**: 1
 - **Partial Completions**: 0
-- **Average Completion Time**: TBD
+- **Average Completion Time**: ~8 hours
 
 ## 🥇 Full Completions (10/10 Flags)
 
-*Be the first to complete all 10 flags and earn a spot here!*
+### [Carlos Adriano](https://github.com/carlosadrianosj) - Full Completion ⭐
+**Completion Date**: October 2nd, 2025
+**Writeup**:
+- [Part 1: 8 Hours, 10 Minutes, 8 Flags](https://reverselabs.dev/blog/onelist-ctf-8-hours-10-minutes-8-flags)
+- [Part 2: Flags 6-7](https://reverselabs.dev/blog/onelist-ctf-flags-6-7-part-2)
+
+**Completion Time**: ~9 hours
+**Notable Achievement**: First to complete all 10 flags! Also identified and reported a bug in flag 6.
 
 <!-- Template for full completions:
 ### [Participant Name](https://github.com/username) - Full Completion ⭐
@@ -40,7 +47,7 @@ We recognize excellence in various categories:
 ### 📚 Educational Excellence
 *Best writeups that help others learn*
 
-- **Most Comprehensive**: TBD
+- **Most Comprehensive**: [Carlos Adriano](https://github.com/carlosadrianosj) - Detailed two-part writeup covering all 10 flags
 - **Best Beginner Guide**: TBD
 - **Most Creative Approach**: TBD
 
@@ -50,6 +57,11 @@ We recognize excellence in various categories:
 - **Best Custom Tooling**: TBD
 - **Most Creative Solution**: TBD
 - **Tool Innovation**: TBD
+
+### 🐛 Bug Hunters
+*Recognition for identifying and reporting issues*
+
+- [Carlos Adriano](https://github.com/carlosadrianosj) - Identified bug in flag 6
 
 ## 💬 Community Feedback
 
